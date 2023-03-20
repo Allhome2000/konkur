@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "تحویل"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:mr amir hosseini}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "livePreview.defaultPreviewPath": "/one.html"
+}
